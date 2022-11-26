@@ -1,0 +1,14 @@
+{
+  "name": "@d3/volcano-contours",
+  "main": "cbfc653d64eca43f@157.js",
+  "version": "157.0.0",
+  "homepage": "https://observablehq.com/@d3/volcano-contours",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
