@@ -1,0 +1,14 @@
+{
+  "name": "@d3/geotiff-contours",
+  "main": "54d92df19048deed@47.js",
+  "version": "47.0.0",
+  "homepage": "https://observablehq.com/@d3/geotiff-contours",
+  "author": {
+    "name": "D3",
+    "url": "https://observablehq.com/@d3"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
